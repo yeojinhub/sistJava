@@ -1,0 +1,7 @@
+class J{
+public static void main(String[] args){
+
+	System.out.pritlin("홍길동 서울시 강남구 역삼동");
+
+}
+}

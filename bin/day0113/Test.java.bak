@@ -1,0 +1,7 @@
+class Test{
+public static void main(String[] args){
+
+	System.out.println("이여진\n경기도 광주시");
+
+	}
+}

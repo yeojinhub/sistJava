@@ -1,0 +1,9 @@
+package day0115;
+class ExamConstant {
+	
+	public static final int COST=400000;
+	public static final int COUNT_DAY=20;	
+	
+	public static void main(String[] args) 	{
+	}//main
+}//class
