@@ -3,16 +3,24 @@ sist 쌍용교육센터 실습예제
 <br>
 (1/13~2/28)
 
-## 📌 목차
-1. [개요](#-개요)
-2. [학습목표](#-학습목표)
-3. [학습기간](#-학습기간)
-4. [기술스택](#-Stacks)
-5. [설치 및 실행방법](#설치-및-실행방법)
+[![Wiki](https://img.shields.io/badge/📖-Wiki-007ec6)](https://github.com/yeojinhub/sistJava/wiki)
 
-## 🖥️ 개요
+<br><br>
+
+## 📌 목차
+1. [📝 개요](#개요)
+2. [✏️ 학습목표](#학습목표)
+3. [📅 학습기간](#학습기간)
+4. [🛠️ 기술스택](#기술스택)
+5. [⚙️ 설치·실행방법](#설치·실행방법)
+
+<br><br>
+
+## 📝 개요
 > 이 프로젝트는 sist 쌍용교육센터에서 진행한 Java SE 기초 및 중급 주제 실습 예제 모음입니다.
 > 
+
+<br><br>
 
 ## ✏️ 학습목표
 > Java 언어 문법, OOP, 컬렉션, 파일 I/O, 예외 처리, 스레드 실습
@@ -20,11 +28,16 @@ sist 쌍용교육센터 실습예제
 > JDBC/네트워크 프로그래밍 등 핵심 개념을 실습
 > 
 
-## 🕰️ 학습기간
+<br><br>
+
+## 📅 학습기간
 > 2025/1/13~2025/2/28(7주)
 > 
+[🔝 목차로 돌아가기](#목차)
 
-## ⚙️ Stacks
+<br><br>
+
+## 🛠️ 기술스택
 > ### Language
 > 
 > ![Java17](https://img.shields.io/badge/java17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +54,9 @@ sist 쌍용교육센터 실습예제
 > ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 >
 
-## 설치 및 실행방법
+<br><br>
+
+## ⚙️ 설치 및 실행방법
 > ### 프로젝트 클론
 > ```bash
 > git clone https://github.com/yeojinhub/sistJava.git
