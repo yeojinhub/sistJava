@@ -1,12 +1,12 @@
-# sistJava
-sist 쌍용교육센터 실습예제
-<br>
-(1/13~2/28)
+# sistJava sist 쌍용교육센터 실습예제(1/13~2/28)
 
-[![Wiki](https://img.shields.io/badge/📖-Wiki-007ec6)](https://github.com/yeojinhub/sistJava/wiki)
+[![Java Version](https://img.shields.io/badge/Java-17-brightgreen?style=flat-square)](https://www.oracle.com/java/)
+[![Last Commit](https://img.shields.io/github/last-commit/yeojinhub/sistJava?style=flat-square)](https://github.com/yeojinhub/sistJava/commits)
+
+[![Wiki](https://img.shields.io/badge/📖-Wiki-007ec6?style=flat-square)](https://github.com/yeojinhub/sistJava/wiki)
 
 <br><br>
-
+<a id="목차"></a>
 ## 📌 목차
 1. [📝 개요](#개요)
 2. [✏️ 학습목표](#학습목표)
@@ -15,13 +15,13 @@ sist 쌍용교육센터 실습예제
 5. [⚙️ 설치·실행방법](#설치·실행방법)
 
 <br><br>
-
+<a id="개요"></a>
 ## 📝 개요
 > 이 프로젝트는 sist 쌍용교육센터에서 진행한 Java SE 기초 및 중급 주제 실습 예제 모음입니다.
 > 
 
 <br><br>
-
+<a id="학습목표"></a>
 ## ✏️ 학습목표
 > Java 언어 문법, OOP, 컬렉션, 파일 I/O, 예외 처리, 스레드 실습
 > 
@@ -29,14 +29,14 @@ sist 쌍용교육센터 실습예제
 > 
 
 <br><br>
-
+<a id="학습기간"></a>
 ## 📅 학습기간
 > 2025/1/13~2025/2/28(7주)
 > 
 [🔝 목차로 돌아가기](#목차)
 
 <br><br>
-
+<a id="기술스택"></a>
 ## 🛠️ 기술스택
 > ### Language
 > 
@@ -53,10 +53,10 @@ sist 쌍용교육센터 실습예제
 > ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 > ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 >
-
+[🔝 목차로 돌아가기](#목차)
 <br><br>
-
-## ⚙️ 설치 및 실행방법
+<a id="설치·실행방법"></a>
+## ⚙️ 설치·실행방법
 > ### 프로젝트 클론
 > ```bash
 > git clone https://github.com/yeojinhub/sistJava.git
@@ -80,5 +80,5 @@ sist 쌍용교육센터 실습예제
 > Run as Java Application
 > ```
 >
-
+[🔝 목차로 돌아가기](#목차)
 
